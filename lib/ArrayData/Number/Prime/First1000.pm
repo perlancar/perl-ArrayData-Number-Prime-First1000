@@ -12,7 +12,7 @@ with 'ArrayDataRole::Source::LinesInDATA';
 # STATS
 
 1;
-# ABSTRACT: List of 1000 first prime numbers
+# ABSTRACT: List of first 1000 prime numbers
 
 =head1 DESCRIPTION
 
